@@ -20,6 +20,7 @@ import {Component} from '@angular/core';
   preserveWhitespaces: true,
   selector: 'my-app',
   templateUrl: './app.ng.html',
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
 }
